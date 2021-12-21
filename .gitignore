@@ -105,3 +105,4 @@ dist
 
 #Site
 docs/build/*.map
+.DS_Store
